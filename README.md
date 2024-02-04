@@ -3,11 +3,12 @@ Notes collection of cs
 
 for quick check, interview
 
-## Algorithm
-[template & example](https://github.com/Iris-Song/algorithm)
+### [Algorithm](https://github.com/Iris-Song/algorithm)
 
-## Computer Network
-[repo link](https://github.com/Iris-Song/Computer-Network-Course/tree/main/NOTES)
+### [OOD](https://github.com/Iris-Song/Object-Oriented-Design-Pattern)
 
-## Ruby
-[repo link](https://github.com/Iris-Song/Ruby-notes)
+### [Computer Network](https://github.com/Iris-Song/Computer-Network-Course/tree/main/NOTES)
+
+### [Big Data](https://github.com/Iris-Song/Big-Data/Notes)
+
+### [Ruby](https://github.com/Iris-Song/Ruby-notes)
