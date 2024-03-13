@@ -1,4 +1,17 @@
 # Docker
+#### Docker Registry
++ responsible for managing Docker images. 
++ a service where users can store and distribute Docker images. 
+
+#### Docker Hub 
+a public registry service provided by Docker, but there are also private registry options available for organizations to manage their own Docker images. 
+
+#### Docker Engine 
+responsible for running Docker containers, 
+
+#### Docker Compose 
+a tool for defining and running multi-container Docker applications.
+
 ## What is Docker?
 + Software platform that allows you to build, test, and deploy applications quickly
 + The code, OS, libraries, etc. are bundled together as a unit called container, which is independently deployed at scale
