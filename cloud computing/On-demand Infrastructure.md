@@ -26,6 +26,11 @@ RightScale, Amazon AWS Autoscale and Elastic Load balancer
 + HPC 
 + iRadeo
 
+## public cloud
+A multi-tenant cloud environment accessed over the internet
+
+A public cloud is a cloud deployment model in which users access infrastructure and application services remotely via the internet from a third-party provider in a multi-tenant environment. Some of the top service providers in this market include AWS, Microsoft and Google. Services from the public cloud are often offered through a subscription model, such as pay per usage or on demand. The main benefits of public cloud are scalability, lower levels of wasted resources and reduced costs.
+
 ## benefit of private cloud? 
 
 Three reasons:
@@ -46,3 +51,6 @@ Enterprises can use hybrid cloud architectures to implement robust disaster reco
 3. **Cost Optimization:** 
 Hybrid cloud enables enterprises to optimize costs by dynamically allocating workloads between public and private clouds based on resource requirements, performance demands, and budget constraints. This ensures efficient resource utilization while minimizing operational expenses.
 Hybrid cloud complements the benefits of a private cloud by offering additional flexibility and versatility in workload deployment. 
+
+## What does it mean when a public cloud provider has an availability of five nines?
+Unavailable for potentially five minutes a year
