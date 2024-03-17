@@ -9,7 +9,7 @@ for quick check, interview
 
 #### [Computer Network](https://github.com/Iris-Song/Computer-Network-Course/tree/main/NOTES)
 
-#### [Big Data](https://github.com/Iris-Song/Big-Data/Notes)
+#### [Big Data](https://github.com/Iris-Song/Big-Data/tree/main/Notes)
 
 #### [Cloud Computing](./cloud%20computing/)
 
