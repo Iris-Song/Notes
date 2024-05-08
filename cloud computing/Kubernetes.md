@@ -112,3 +112,12 @@ Are the ‘workers’ of a Kubernetes cluster. They run a minimal agent that man
 + **Pods** are given a cluster unique IP for the duration of its lifecycle, but the pods themselves are fundamentally ephemeral.
 + **Services** are given a persistent cluster unique IP that spans the Pods lifecycle.
 + **External Connectivity** is generally handed by an integrated cloud provider or other external entity (load balancer)
+
+## Q
+#### pod-to-pod communication
+Pods in Kubernetes are assigned unique IP addresses within a cluster, enabling direct communication between them. By default, each pod is isolated and has its own IP address, which allows for secure communication and avoids port conflicts. 
+
+#### How to expose a Kubernetes deployment as a service to the outside world?
+1. NodePort: Exposes the service on a specific port of each node in the cluster. Traffic sent to the node's IP address on that port is forwarded to the service.
+2. LoadBalancer: Provision a cloud load balancer to distribute traffic across the pods in the deployment. The load balancer gets a public IP address, allowing external access.
+3. Ingress: Routes external requests to services based on HTTP and HTTPS rules. Ingress controllers manage traffic routing and SSL termination.
