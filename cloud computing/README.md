@@ -5,3 +5,4 @@
 4. [On-demand Infrastructure](./On-demand%20Infrastructure.md)
 5. [Kubernetes](./Kubernetes.md)
 6. [Docker](./Docker.md)
+7. [Spark](./Spark.md)
