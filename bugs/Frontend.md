@@ -38,4 +38,6 @@
         // ...
       })
     ```
-  
+- chrome package capture
+  - Developer tool > Network
+  - don't stop, copy cURL, then import in Postman
