@@ -41,3 +41,7 @@
 - chrome package capture
   - Developer tool > Network
   - don't stop, copy cURL, then import in Postman
+- mock response
+  - Swagger[https://reeli.github.io/blog/tools_swagger-to-mocks.html#%E5%A4%84%E7%90%86-swagger-json]
+  - bifrost bytedance
+- `string` lost precision
