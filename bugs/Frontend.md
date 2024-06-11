@@ -44,4 +44,11 @@
 - mock response
   - Swagger[https://reeli.github.io/blog/tools_swagger-to-mocks.html#%E5%A4%84%E7%90%86-swagger-json]
   - bifrost bytedance
-- `string` lost precision
+- JavaScript big number lost precision
+  - backend use `string`
+  - API platform define type as `string`, and
+  
+    ```
+    x-open-format:
+      type: string
+    ```
