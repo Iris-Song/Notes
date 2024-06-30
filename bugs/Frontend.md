@@ -52,3 +52,18 @@
     x-open-format:
       type: string
     ```
+
+## React
++ `useEffect` happens after component mount
++ redirect before the page rendered
+  ```
+  if (...) {
+    window.location.href = 'xxxx'
+  } else {
+    ReactDOM.render(
+      <App />
+
+      document.getElementById('root')
+    )
+  }
+  ``` 
