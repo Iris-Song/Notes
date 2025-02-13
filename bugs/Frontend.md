@@ -46,6 +46,8 @@
 - mock response
   - Swagger[https://reeli.github.io/blog/tools_swagger-to-mocks.html#%E5%A4%84%E7%90%86-swagger-json]
   - bifrost bytedance
+- block response
+  - redirect responde to localhost(bifrost), so the response cannot go to backend server. can use this method to get auth_code 
 - JavaScript big number lost precision
   - backend use `string`
   - API platform define type as `string`, and
